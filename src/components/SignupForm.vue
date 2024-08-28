@@ -29,10 +29,10 @@
     </div>
 
   </form>
-  <p>Email:{{ email }}</p>
+  <!-- <p>Email:{{ email }}</p>
   <p>Password: {{ password }}</p>
   <p>Role: {{ role }}</p>
-  <p>Role: {{ termsAccepted }}</p>
+  <p>Role: {{ termsAccepted }}</p> -->
 </template>
 
 <script>
